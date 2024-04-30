@@ -19,9 +19,8 @@ Version Control: ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=
 Software: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
-- 🔭 I’m currently working on an App with
-- 🌱 I’m currently learning ...
-
+- 🔭 I’m currently working on an App with my best Friend
+- 🌱 I’m currently learning React Native and Russian... 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpedr78&hide=stars&rank_icon)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub World 👋
+
+Junior FullStack Developer recently graduated, just starting a new Chapter of my life
+Check my projects i did during my bootcamp and soon many more!
 
 ## Tech Stack
+
 
 Languages: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) !
 

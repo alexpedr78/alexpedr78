@@ -14,5 +14,5 @@ Databases: MongoDB
 - 🌱 I’m currently learning ...
 
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alexpedro78&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 

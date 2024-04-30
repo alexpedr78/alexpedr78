@@ -19,5 +19,5 @@ Software: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&l
 - 🌱 I’m currently learning ...
 
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=alexpedro78&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpedr78&hide=stars&rank_icon)](https://github.com/anuraghazra/github-readme-stats)

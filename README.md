@@ -16,8 +16,7 @@ Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&log
 
 Version Control: ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-Software: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
+## Stats
 
 - 🔭 I’m currently working on an App with my best Friend
 - 🌱 I’m currently learning React Native and Russian... 

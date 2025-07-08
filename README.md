@@ -1,3 +1,3 @@
 ### Welcome 
-Ideas muncher. \
+Ideas muncher. 🦖
 Check my projects
